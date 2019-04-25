@@ -12,13 +12,10 @@ majority of actions is performed in the background and no advanced operations ar
 * sends JSON with data
 * converts JSON, picks the most important elements and presents them to the user
 
-![main screen](https://gitlab.groept.be/bartosz.sobkowiak/bottle-detector/blob/master/app/src/main/res/examples/app_main_screen.png)
-![results](https://gitlab.groept.be/bartosz.sobkowiak/bottle-detector/blob/master/app/src/main/res/examples/app_present_data.png)
-
 <p align="center">
-  <img src="https://gitlab.groept.be/bartosz.sobkowiak/bottle-detector/blob/master/app/src/main/res/examples/app_main_screen.png" width="350">
-  <img src="app/src/main/res/examples/app_present_data.png" width="350">
+  <img src="app/src/main/res/examples/app_main_screen.png" width="200">
+  <img src="app/src/main/res/examples/app_present_data.png" width="200">
 </p>
 
-### Built with
+#### Built with
 [Google Cloud Platform](https://cloud.google.com/vision/)
