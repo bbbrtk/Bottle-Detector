@@ -15,5 +15,10 @@ majority of actions is performed in the background and no advanced operations ar
 ![main screen](https://gitlab.groept.be/bartosz.sobkowiak/bottle-detector/blob/master/app/src/main/res/examples/app_main_screen.png)
 ![results](https://gitlab.groept.be/bartosz.sobkowiak/bottle-detector/blob/master/app/src/main/res/examples/app_present_data.png)
 
+<p align="center">
+  <img src="/blob/master/app/src/main/res/examples/app_main_screen.png" width="350" title="hover text">
+  <img src="/blob/master/app/src/main/res/examples/app_present_data.png" width="350" alt="accessibility text">
+</p>
+
 ### Built with
 [Google Cloud Platform](https://cloud.google.com/vision/)
