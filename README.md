@@ -17,7 +17,7 @@ majority of actions is performed in the background and no advanced operations ar
 
 <p align="center">
   <img src="https://gitlab.groept.be/bartosz.sobkowiak/bottle-detector/blob/master/app/src/main/res/examples/app_main_screen.png" width="350">
-  <img src="bottle-detector/blob/master/app/src/main/res/examples/app_present_data.png" width="350">
+  <img src="app/src/main/res/examples/app_present_data.png" width="350">
 </p>
 
 ### Built with
